@@ -5,3 +5,4 @@ trame-plotly
 plotly
 pandas
 numpy
+trame-vtk
