@@ -12,3 +12,6 @@ actually its PYTHON_GIL
 
 
 => demander a Alexy pour build vtk wheel against custom python
+
+
+https://py-free-threading.github.io/installing-cpython/

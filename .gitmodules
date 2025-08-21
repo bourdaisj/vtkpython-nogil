@@ -1,3 +1,3 @@
 [submodule "vtk"]
 	path = vtk
-	url = git@gitlab.kitware.com:vtk/vtk.git
+	url = git@gitlab.kitware.com:jules.bourdais/vtk.git
